@@ -1,1 +1,1 @@
-### Hello World 🖐️ , I'm MΞHDI <a href="https://emoji.gg/emoji/7089-xmas-hacker"><img src="https://emoji.gg/assets/emoji/7089-xmas-hacker.gif" width="64px" height="64px" alt="XMAS_Hacker"></a>
+### Hello World 🖐️ , I'm MΞHDI https://cdn.discordapp.com/attachments/805862957619609640/922920437606940702/7089-xmas-hacker.gif
