@@ -15,3 +15,10 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raddark&label=Profile%20views&color=0e75b6&style=flat" alt="raddark" /> </p>
+
+
+
+<h3 align="center">Github Stats </h3>
+<div align="center">
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ho3einwave&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3E98B4&icon_color=3E98B4)
