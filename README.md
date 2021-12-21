@@ -4,7 +4,7 @@
 <h3 align="center">☿ My Skills ☿</h3>
 <p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<h3 alian="center">![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raddark&theme=radical)</h3>
+<p alian="center">![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raddark&theme=radical)</p>
 
 <h3 align="center">☿ Connect With Me ☿</h3>
 <p align="center">
