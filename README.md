@@ -21,4 +21,4 @@
 <h3 align="center">Github Stats </h3>
 <div align="center">
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raddark&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3E98B4&icon_color=3E98B4)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaDDarK&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3E98B4&icon_color=3E98B4)
