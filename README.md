@@ -4,7 +4,7 @@
 <h3 align="center">☿ My Skills ☿</h3>
 <p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p align="center"> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raddark&theme=radical) /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raddark&theme=radical)
 
 <h3 align="center">☿ Connect With Me ☿</h3>
 <p align="center">
@@ -15,6 +15,3 @@
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=raddark&label=Profile%20views&color=0e75b6&style=flat" alt="raddark" /> </p>
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raddark&theme=radical)
